@@ -136,9 +136,9 @@ This portfolio focuses on developing skills in:
 
 # Connect
 
-**GitHub:** https://github.com/YOUR_USERNAME
+**GitHub:** https://github.com/Ejones904
 
-**LinkedIn:** https://www.linkedin.com/in/YOUR_PROFILE
+**LinkedIn:** https://www.linkedin.com/in/ethanjones-jacksonville
 
 ---
 
