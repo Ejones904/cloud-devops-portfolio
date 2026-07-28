@@ -69,7 +69,7 @@ The projects below are completed or in progress as part of my Cloud & DevOps boo
 
 # Independent Projects
 
-As I continue expanding my portfolio, independent cloud engineering projects will be added here.
+Linux-operations-diagnostic-tool | https://github.com/Ejones904/linux-operations-diagnostic-tool
 
 ---
 
