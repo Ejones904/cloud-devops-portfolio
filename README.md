@@ -57,6 +57,7 @@ The projects below are completed or in progress as part of my Cloud & DevOps boo
 
 | Project | Technologies | Status | Repository |
 |---------|--------------|--------|------------|
+| Java App Deployment on Digital Ocean | Java, Digital Ocean | Completed | https://github.com/Ejones904/digitalocean-java-app-deployment
 | Nexus Artifact Repository | Nexus Repository Manager, Maven, Gradle | Completed | *(Add Link)* |
 | Docker Containerization | Docker, Docker Compose | Completed | *(Add Link)* |
 | AWS Cloud Projects | AWS | Coming Soon | *(Add Link)* |
