@@ -62,7 +62,7 @@ The projects below are completed or in progress as part of my Cloud & DevOps boo
 | Nexus Artifact Repository | Nexus Repository Manager, Maven, Gradle, Digital Ocean | Completed | https://github.com/Ejones904/artifact-repository-manager-with-nexus-on-digital-ocean |
 | Docker Containerization | Docker, Docker Compose | Completed |https://github.com/Ejones904/dockerized-nodejs-mongodb-application https://github.com/Ejones904/docker-image-build-project  https://github.com/Ejones904/Private-Docker-Repository- https://github.com/Ejones904/docker-compose-nodejs-mongodb-deployment https://github.com/Ejones904/docker-volumes-persistent-data |
 | AWS Cloud Projects | AWS | Coming Soon |  |
-| CI/CD Pipeline | GitHub Actions Jenkins | Coming Soon | https://github.com/Ejones904/jenkins-docker-digitalocean-deployment |
+| CI/CD Pipeline | GitHub Actions Jenkins | Coming Soon | https://github.com/Ejones904/jenkins-docker-digitalocean- https://github.com/Ejones904/jenkins-freestyle-jobdeployment |
 | Infrastructure as Code | Terraform | Coming Soon |  |
 | Kubernetes Deployment | Kubernetes | Coming Soon |  |
 | Monitoring & Observability | Prometheus, Grafana | Coming Soon |  |
